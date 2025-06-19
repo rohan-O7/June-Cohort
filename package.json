@@ -10,7 +10,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start": "node dist/server/index.js" 
+    "start": "node dist/server/index.ts" 
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
