@@ -99,7 +99,7 @@ A full-stack TypeScript application that allows patients to book medical appoint
 ## Voice Recognition
 
 The system uses the Web Speech API for voice recognition. Supported browsers:
-- Chrome (recommended)
+- Chrome
 - Edge
 - Safari (limited support)
 
