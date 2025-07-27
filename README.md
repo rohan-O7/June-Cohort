@@ -101,7 +101,7 @@ A full-stack TypeScript application that allows patients to book medical appoint
 The system uses the Web Speech API for voice recognition. Supported browsers:
 - Chrome
 - Edge
-- Safari (limited support)
+- Safari
 
 ### Voice Commands
 - Describe symptoms naturally: "I have a headache and fever"
